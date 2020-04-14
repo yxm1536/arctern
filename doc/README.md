@@ -1,0 +1,1 @@
+The documents of Arctern has been move to Arctern-docs project. Please visit  Arctern-docs project for detailed information about installation, deployment, and APIS of Arctern.
